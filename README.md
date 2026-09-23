@@ -16,7 +16,7 @@ Hoy no se escribe `CREATE TABLE`. Eso es mañana. Hoy lo que me importa es que c
 |---|---|---|
 | 10:30 – 10:40 | Fork, Codespace, rama de trabajo y carpeta del equipo | [`guias/flujo-git.md`](guias/flujo-git.md) |
 | 10:40 – 11:00 | Ejercicio de calentamiento: caso Gimnasio | [`ejercicio/caso-gimnasio.md`](ejercicio/caso-gimnasio.md) |
-| 11:00 – 11:08 | Puesta en común (yo pregunto, ustedes defienden) | — |
+| 11:00 – 11:08 | Puesta en común | — |
 | 11:08 – 11:30 | Esquema relacional de **su** proyecto y apertura del Pull Request | `equipos/equipo-XX/esquema-relacional.md` |
 | 11:30 – 11:48 | Revisión cruzada entre equipos, en el Pull Request | [`guias/revision-cruzada.md`](guias/revision-cruzada.md) |
 | 11:48 – 12:00 | Atender comentarios, llenar el documento de Google y cierre | Documento de Google del equipo |
