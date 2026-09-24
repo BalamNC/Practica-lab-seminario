@@ -2,8 +2,8 @@
 
 **Integrantes:**
 -
--
--
+-*salvador*
+-*Iker*
 
 ## Esquema relacional
 
